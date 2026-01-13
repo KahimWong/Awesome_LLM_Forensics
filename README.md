@@ -4,17 +4,46 @@
 > detecting, attributing, and analyzing LLM-generated or LLM-assisted content.
 
 **Legend:** 🎭 Deepfake | 🧾 Document localization | 📷 Natural image localization | 🤖 AIGC
-detection | [![VENUE YEAR](https://img.shields.io/badge/VENUE-YEAR-blue?style=flat-square)](PAPER_LINK) paper
+detection [![VENUE YEAR](https://img.shields.io/badge/VENUE-YEAR-blue?style=flat-square)](PAPER_LINK) paper
 link | [![](https://img.shields.io/github/stars/skJack/VLFFD?style=flat-square&label=%20&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/skJack/VLFFD/stargazers)
 github link with stars
 
 ---
 
+### 2026
+- Busterx++: Towards unified cross-modal ai-generated content detection and explanation with mllm 🤖
+[![](https://img.shields.io/badge/arxiv-'26-red?style=flat-square)](https://arxiv.org/abs/2507.14632)
+[![](https://img.shields.io/github/stars/l8cv/BusterX?style=flat-square&label=%20&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/l8cv/BusterX)
+
 ### 2025
+
+- Seeing before reasoning: A unified framework for generalizable and explainable fake image detection 🤖
+[![](https://img.shields.io/badge/arxiv-'25-red?style=flat-square)](https://arxiv.org/pdf/2509.25502)
+
+- Thinkfake: Reasoning in multimodal large language models for ai-generated image detection 🤖 
+[![](https://img.shields.io/badge/arxiv-'25-red?style=flat-square)](https://arxiv.org/pdf/2509.19841)
+
+- Semantic Visual Anomaly Detection and Reasoning in AI-Generated Images 🤖
+[![](https://img.shields.io/badge/arxiv-'25-red?style=flat-square)](https://arxiv.org/pdf/2510.10231)
+
+- TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection 🎭
+[![](https://img.shields.io/badge/arxiv-'25-red?style=flat-square)](https://arxiv.org/pdf/2512.10652)
+
+- From Evidence to Verdict: An Agent-Based Forensic Framework for AI-Generated Image Detection 🤖
+[![](https://img.shields.io/badge/arxiv-'25-red?style=flat-square)](https://arxiv.org/pdf/2511.00181)
+
+- EDVD-LLaMA: Explainable Deepfake Video Detection via Multimodal Large Language Model Reasoning 🎭
+[![](https://img.shields.io/badge/arxiv-'25-red?style=flat-square)](https://arxiv.org/pdf/2510.16442)
+
+- REVEAL: Reasoning-enhanced Forensic Evidence Analysis for Explainable AI-generated Image Detection 🤖
+[![](https://img.shields.io/badge/arxiv-'25-red?style=flat-square)](https://arxiv.org/pdf/2511.23158)
 
 - Towards General Visual-Linguistic Face Forgery Detection 🎭
 [![](https://img.shields.io/badge/CVPR-'25-blue?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Towards_General_Visual-Linguistic_Face_Forgery_Detection_CVPR_2025_paper.pdf)
 [![](https://img.shields.io/github/stars/skJack/VLFFD?style=flat-square&label=%20&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/skJack/VLFFD)
+
+- Veritas: Generalizable deepfake detection via pattern-aware reasoning 🎭
+[![](https://img.shields.io/badge/arxiv-'25-red?style=flat-square)](https://arxiv.org/pdf/2508.21048)
 
 - Can ChatGPT Detect DeepFakes? A Study of Using Multimodal Large Language Models for Media Forensics 🎭 
 [![](https://img.shields.io/badge/MM-'25-blue?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Jia_Can_ChatGPT_Detect_DeepFakes_A_Study_of_Using_Multimodal_Large_CVPRW_2024_paper.pdf)
@@ -23,11 +52,12 @@ github link with stars
 - From Pixels to Semantics: A Novel MLLM-Driven Approach for Explainable Tampered Text Detection 🧾
 [![](https://img.shields.io/badge/MM-'25-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3746027.3755803)
 
-- AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models
-  🤖 [![](https://img.shields.io/badge/ICCV-'25-blue?style=flat-square)](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_AIGI-Holmes_Towards_Explainable_and_Generalizable_AI-Generated_Image_Detection_via_Multimodal_ICCV_2025_paper.pdf) [![](https://img.shields.io/github/stars/wyczzy/AIGI-Holmes?style=flat-square&label=%20&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/wyczzy/AIGI-Holmes)
+- AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models 🤖 
+[![](https://img.shields.io/badge/ICCV-'25-blue?style=flat-square)](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_AIGI-Holmes_Towards_Explainable_and_Generalizable_AI-Generated_Image_Detection_via_Multimodal_ICCV_2025_paper.pdf) 
+[![](https://img.shields.io/github/stars/wyczzy/AIGI-Holmes?style=flat-square&label=%20&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/wyczzy/AIGI-Holmes)
 
 - Detecting Text Manipulation in Images using Vision Language Models 🧾
-[![](https://img.shields.io/badge/arxiv-'25-red?style=flat-square)](https://arxiv.org/abs/2512.21482) 
+[![](https://img.shields.io/badge/arxiv-'25-red?style=flat-square)](https://arxiv.org/pdf/2509.10278) 
 [dataset](https://www.idiap.ch/paper/textvlmdet/)
 
 - LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis 🧾
